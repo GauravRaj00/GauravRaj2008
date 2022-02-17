@@ -4,6 +4,10 @@
  - 🌱 I’m currently learning Html and python
  - 🥅 2022 Goals: Make my bot Spicy better and make more bots
  - ⚡ Fun fact: I love Javascript 
+
+ ## Get in touch by joining my server!
+ 
+ [![](https://discord.c99.nl/widget/theme-1/762320818914983937.png)](https://discord.com/invite/xRqDPxSpBe)
  
  ## Languages I Use:
 <p align="left">
