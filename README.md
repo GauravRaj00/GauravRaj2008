@@ -6,4 +6,4 @@
  - ⚡ Fun fact: I love Javascript 
  
  ## Languages I Use:
- - https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg
+ [https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg]
