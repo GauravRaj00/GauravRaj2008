@@ -4,6 +4,6 @@
  - 🌱 I’m currently learning Html and python
  - 🥅 2022 Goals: Make my bot Spicy better and make more bots
  - ⚡ Fun fact: I love Javascript 
-
- Languages I Use:
+ 
+ ## Languages I Use:
  - Java Script
