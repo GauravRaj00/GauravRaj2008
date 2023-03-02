@@ -1,6 +1,6 @@
  # Hi there, I'm Gaurav Raj 👋
  ## I'm a Student, and a Discord Bot Developer!
- - 🔭 I’m currently working on a [discord.js](https://discord.js.org/) based discord bot called [Spicy Bot](https://spicybot.xyz)
+ - 🔭 I’m currently working on a [discord.js](https://discord.js.org/) based discord bot called [Spicy Bot](https://spicybot.site)
  - 🌱 I’m currently learning html5 and css3
  - 🥅 2022 Goals: Make my discord bot better and learn web development
  - ⚡ Fun fact: I love Javascript 
